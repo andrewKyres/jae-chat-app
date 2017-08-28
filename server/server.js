@@ -10,7 +10,7 @@ const {Users} = require('./utils/users');
 const {Mongo} = require('./utils/db');
 
 const publicPath = path.join(__dirname, '../public');
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 7532;
 const app = express();
 const server = http.createServer(app);
 const io = socketIO(server);

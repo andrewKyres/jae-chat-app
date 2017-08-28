@@ -11,3 +11,4 @@ Julian => J
 - group subsequent messages from same user together
 E- add gif/webm support
 A- consider getting setup on JIRA
+-J cheese
